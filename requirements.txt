@@ -1,0 +1,5 @@
+aiogram==2.25.1
+requests
+pandas
+openpyxl
+python-dotenv
